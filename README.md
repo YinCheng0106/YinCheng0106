@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**YinCheng0106/YinCheng0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--------
+## 😁 Follow Me 😁 ##
 
-Here are some ideas to get you started:
+- IG ：[\_yincheng\_](https://www.instagram.com/_yincheng_/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Twitter：[@Yin_Cheng0106](https://twitter.com/Yin_Cheng0106)
+
+- Twitch ：[胤啦(yincheng0106)](https://www.twitch.tv/yincheng0106)
+
+- Discord：YinCheng#8104
+
+- other：[LinkTree](https://allmy.bio/yincheng)
+-------
