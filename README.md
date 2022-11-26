@@ -24,6 +24,6 @@
 </p>
 
 ---
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/We6enK7wb3) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Yin_Cheng0106) [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/We6enK7wb3) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Yin_Cheng0106) [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_yincheng_/)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,py,cpp,)](https://google.com)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,py,cpp,md,)
