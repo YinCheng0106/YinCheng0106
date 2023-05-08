@@ -30,4 +30,4 @@
 ---
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/wkCbSMYFUp) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Yin_Cheng0106) [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_yincheng_/)
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,py,cpp,md,)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,py,cpp,md,vue,vite)
