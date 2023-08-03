@@ -23,7 +23,7 @@
 ---
 
 <table align="center">
-<tralign="center">
+<tr align="center">
   <td>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YinCheng0106&theme=transparent&layout=Compact" alt="YinCheng0106's Waketime Stats">
   </td>
