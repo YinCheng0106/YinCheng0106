@@ -16,16 +16,49 @@
         <td>
             <img  src="https://spotify-github-profile.vercel.app/api/view?uid=eason010630&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=fa8500&bar_color_cover=true" alt="Metrics" height="325">
            </td>
-          </tr>
+        </tr>
      </tbody>
      </table>
 
 ---
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yincheng0106&show_icons=true&theme=vision-friendly-dark&locale=zh-tw&layout=compact" alt="yincheng0106" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api?username=yincheng0106&show_icons=true&theme=vision-friendly-dark&locale=zh-tw" alt="yincheng0106" height="150"/>
-<img src="https://github-profile-trophy.vercel.app/?username=yincheng0106" alt="yincheng0106"/>
-</p>
+
+<table align="center">
+<tralign="center">
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YinCheng0106&theme=transparent&layout=Compact" alt="YinCheng0106's Waketime Stats">
+  </td>
+<tr>
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yincheng0106&show_icons=true&theme=transparent&layout=compact" alt="YinCheng0106's Most Used Languages" />
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=yincheng0106&show_icons=true&show_icons=true&theme=transparent" alt="yincheng0106"/>
+  </td>
+</tr>
+</table>
+
+----
+
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YINLA-TEAM&repo=YINLA&theme=dark#gh-dark-mode-only" alt="https://github.com/YINLA-TEAM/YINLA" url="https://github.com/YINLA-TEAM/YINLA">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YINLA-TEAM&repo=website&theme=dark#gh-dark-mode-only" alt="https://github.com/YINLA-TEAM/website" url="https://github.com/YINLA-TEAM/website">
+      </td>
+    <tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YinCheng0106&repo=YINJS&theme=dark#gh-dark-mode-only" alt="https://github.com/YINLA-TEAM/website" url="https://github.com/YINLA-TEAM/website">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YinCheng0106&repo=YINLA_PY&theme=dark#gh-dark-mode-only" alt="https://github.com/YINLA-TEAM/website" url="https://github.com/YINLA-TEAM/website">
+      </td>
+    </tr>
+  </table>
+
 
 ---
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.gg/wkCbSMYFUp) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Yin_Cheng0106) [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_yincheng_/)
