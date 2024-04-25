@@ -5,13 +5,11 @@
 <img  src="https://spotify-github-profile.vercel.app/api/view?uid=eason010630&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=fa8500&bar_color_cover=true" alt="Metrics" height="200"> 
 </p>
 
-<p align="center"> <img alt="views counter" src="https://komarev.com/ghpvc/?username=yincheng0106&label=views&color=8cff00&style=for-the-badge" alt="yincheng0106" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/YinCheng0106?logo=github&style=for-the-badge"> <img alt="Twitch Status" src="https://img.shields.io/twitch/status/yincheng0106?label=%E8%83%A4%E5%95%A6&logo=twitch&style=for-the-badge"> <img alt="Discord" src="https://img.shields.io/discord/545983691147575307?label=Discord&logo=discord&style=for-the-badge">
+<p align="center">
+<img alt="views counter" src="https://komarev.com/ghpvc/?username=yincheng0106&label=views&color=8cff00&style=for-the-badge" alt="yincheng0106" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/YinCheng0106?logo=github&style=for-the-badge"> <img alt="Twitch Status" src="https://img.shields.io/twitch/status/yincheng0106?label=%E8%83%A4%E5%95%A6&logo=twitch&style=for-the-badge"> <img alt="Discord" src="https://img.shields.io/discord/545983691147575307?label=Discord&logo=discord&style=for-the-badge">
 </p>
 
 ---
-<p align="center">
-
-</p>
 
 <table align="center">
 <tr>
@@ -34,20 +32,12 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YINLA-TEAM&repo=YINLA&theme=dark#gh-dark-mode-only" alt="https://github.com/YINLA-TEAM/YINLA" url="https://github.com/YINLA-TEAM/YINLA">
+        <a href="https://github.com/YINLA-TEAM/YINLA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YINLA-TEAM&repo=YINLA&theme=dark#gh-dark-mode-only" alt="https://github.com/YINLA-TEAM/YINLA"></a>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YINLA-TEAM&repo=website&theme=dark#gh-dark-mode-only" alt="https://github.com/YINLA-TEAM/website" url="https://github.com/YINLA-TEAM/website">
+        <a href="https://github.com/YINLA-TEAM/website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YINLA-TEAM&repo=website&theme=dark#gh-dark-mode-only" alt="https://github.com/YINLA-TEAM/website"></a>
       </td>
     <tr>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YinCheng0106&repo=YINJS&theme=dark#gh-dark-mode-only" alt="https://github.com/YINLA-TEAM/website" url="https://github.com/YINLA-TEAM/website">
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=YinCheng0106&repo=YINLA_PY&theme=dark#gh-dark-mode-only" alt="https://github.com/YINLA-TEAM/website" url="https://github.com/YINLA-TEAM/website">
-      </td>
-    </tr>
   </table>
 </p>
 
