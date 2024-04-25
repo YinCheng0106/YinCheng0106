@@ -10,17 +10,22 @@
 
 ---
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YinCheng0106&theme=transparent&layout=Compact" alt="YinCheng0106's Waketime Stats" height="250">
+
 </p>
 
 <table align="center">
 <tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yincheng0106&show_icons=true&theme=transparent&layout=compact" alt="YinCheng0106's Most Used Languages" height="100"/>
-  </td>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=yincheng0106&show_icons=true&show_icons=true&theme=transparent" alt="yincheng0106" height="100"/>
-  </td>
+  <th rowspan="2" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YinCheng0106&theme=transparent&layout=Compact" alt="YinCheng0106's Waketime Stats" >
+    <td height="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yincheng0106&show_icons=true&theme=transparent&layout=compact" alt="YinCheng0106's Most Used Languages" />
+    </td>
+  </th>
+  <tr width="50%">
+    <td height="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=yincheng0106&show_icons=true&show_icons=true&theme=transparent" alt="yincheng0106" />
+    </td>
+  </tr>
 </tr>
 </table>
 
