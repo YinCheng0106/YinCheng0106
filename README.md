@@ -54,6 +54,6 @@
   <img src="https://skillicons.dev/icons?i=instagram">
 </a>
 <br>
-<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs">
-<img src="https://skillicons.dev/icons?i=py,c,cpp,md,vue,vite">
+<img src="https://skillicons.dev/icons?i=java,js,html,nodejs">
+<img src="https://skillicons.dev/icons?i=py,c,cpp,md">
 </p>
