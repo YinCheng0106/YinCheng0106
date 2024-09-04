@@ -1,12 +1,7 @@
 <h1 align="center">YinCheng</h1>
 
-<p align ="center">
-<img width="" height="195" src="https://lanyard.cnrad.dev/api/464303066628227072?bg=FFFFFF00&animated=true&idleMessage=%E2%96%BC%20Tech%20Stack%20%28Not%20all%20mastered%29"/>
-<img  src="https://spotify-github-profile.vercel.app/api/view?uid=eason010630&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=fa8500&bar_color_cover=true" alt="Metrics" height="200"> 
-</p>
-
 <p align="center">
-<img alt="views counter" src="https://komarev.com/ghpvc/?username=yincheng0106&label=views&color=8cff00&style=for-the-badge" alt="yincheng0106" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/YinCheng0106?logo=github&style=for-the-badge"> <img alt="Twitch Status" src="https://img.shields.io/twitch/status/yincheng0106?label=%E8%83%A4%E5%95%A6&logo=twitch&style=for-the-badge"> <img alt="Discord" src="https://img.shields.io/discord/545983691147575307?label=Discord&logo=discord&style=for-the-badge">
+<img alt="views counter" src="https://komarev.com/ghpvc/?username=yincheng0106&label=views&color=8cff00&style=for-the-badge" alt="yincheng0106" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/YinCheng0106?logo=github&style=for-the-badge"> <img alt="Discord" src="https://img.shields.io/discord/545983691147575307?label=Discord&logo=discord&style=for-the-badge">
 </p>
 
 ---
