@@ -47,11 +47,14 @@
 <a href="https://discord.gg/">
   <img src="https://skillicons.dev/icons?i=discord">
 </a>
-<a href="https://twitter.com/Yin_Cheng0106">
+<a href="https://x.com/Yin_Cheng0106">
   <img src="https://skillicons.dev/icons?i=twitter">
 </a>
 <a href="https://www.instagram.com/_yincheng_/">
   <img src="https://skillicons.dev/icons?i=instagram">
+</a>
+<a href="https://www.threads.net/@_yincheng_">
+  <img src="https://engineering.fb.com/wp-content/uploads/2024/01/threads-app-icon.png" width="48">
 </a>
 <br>
 <img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs">
