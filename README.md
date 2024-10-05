@@ -1,9 +1,8 @@
 <h1 align="center">YinCheng</h1>
 
-![Metrics](/github-metrics.svg)
-
 <p align="center">
   睡睡睡
+  <img alt="metrics" src="/github-metrics.svg">
 </p>
 
 <p align="center">
