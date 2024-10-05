@@ -1,7 +1,9 @@
 <h1 align="center">YinCheng</h1>
 
+![Metrics](/github-metrics.svg)
+
 <p align="center">
-  睡
+  睡睡睡
 </p>
 
 <p align="center">
