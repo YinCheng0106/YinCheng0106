@@ -26,21 +26,6 @@
 </tr>
 </table>
 
-----
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/YINLA-TEAM/YINLA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YINLA-TEAM&repo=YINLA&theme=dark#gh-dark-mode-only" alt="https://github.com/YINLA-TEAM/YINLA"></a>
-      </td>
-      <td>
-        <a href="https://github.com/YINLA-TEAM/website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YINLA-TEAM&repo=website&theme=dark#gh-dark-mode-only" alt="https://github.com/YINLA-TEAM/website"></a>
-      </td>
-    <tr>
-  </table>
-</p>
-
-
 ---
 <p align="center">
 <a href="https://discord.gg/">
