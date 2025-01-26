@@ -43,4 +43,5 @@
 <br>
 <img src="https://skillicons.dev/icons?i=java,js,html,nodejs">
 <img src="https://skillicons.dev/icons?i=py,c,cpp,md">
+<img src="https://skillicons.dev/icons?i=vue,vite,nuxtjs,discordjs">
 </p>
