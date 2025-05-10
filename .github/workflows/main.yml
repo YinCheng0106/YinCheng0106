@@ -21,10 +21,15 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Taipei
+          plugin_habits: yes
+          plugin_habits_days: 30
           plugin_wakatime: yes
           plugin_wakatime_days: 30
-          plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
-          plugin_wakatime_user: current
+          plugin_wakatime_user: YinCheng0106
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_starlists_languages: yes
+          plugin_leetcode: yes
+          plugin_leetcode_user: yincheng0106
+          plugin_leetcode_sections: solved, skills, recent
